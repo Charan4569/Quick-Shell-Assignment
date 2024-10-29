@@ -39,4 +39,4 @@ Experience the application https://quick-shell-assignment-bay.vercel.app/
 Tech Stack
 JavaScript
 React JS
-SCSS (CSS Preprocessor)# Quick-Shell-Assignment
+SCSS (CSS Preprocessor)
