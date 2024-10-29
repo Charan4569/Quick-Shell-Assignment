@@ -2,6 +2,7 @@ Quicksell-Frontend-Assignment
 
 React-based interactive Kanban board application with dynamic grouping and ordering options, utilizing the Quicksell API for data. An interactive application using React JS that interacts with the provided API from https://api.quicksell.co/v1/internal/frontend-assignment
 
+
 When a user clicks the "display" button and selects a grouping option, the Kanban board should dynamically adjust to reflect the user's choice.
 
 The application should offer three distinct ways to group the data:
@@ -12,11 +13,14 @@ The application should offer three distinct ways to group the data:
 
 3)By Priority: Group tickets based on their priority level.
 
+
 Users should also be able to sort the displayed tickets in two ways:
 
 1)Priority: Arrange tickets in descending order of priority.
 
 2)Title: Sort tickets in ascending order based on their title.
+
+
 
 The priority levels for the tickets are as follows:
 
@@ -31,6 +35,7 @@ The priority levels for the tickets are as follows:
 >> No priority (Priority level 0)
 
 
+
 Priority levels: (This values you will receive in the api)
 
 4 - Urgent
@@ -42,6 +47,7 @@ Priority levels: (This values you will receive in the api)
 1 - Low
 
 0 - No priority
+
 
 Live Demo
 Experience the application https://quick-shell-assignment-bay.vercel.app/
